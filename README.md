@@ -1,3 +1,3 @@
 # AulaUC8
 
-pasta para teste, enviar arquivos para o github
+Atividade 3, realizando no encontro do dia 27/07
