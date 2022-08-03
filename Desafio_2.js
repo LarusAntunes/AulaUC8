@@ -5,3 +5,10 @@
 let listaEstudantes = ["Helena", "Chico", "Mario"];
 let quantidadeEstudantes = listaEstudantes.length;
 console.log(quantidadeEstudantes);
+
+if (quantidadeEstudantes<5){
+    console.log("Cadastro permitido")
+}   else {
+    console.log("Cadastro não permitido")
+}
+
